@@ -2,5 +2,5 @@
 
 Languages:
 
-* Javascript
-* Java
+* ☕ Javascript
+* ☕ Java
