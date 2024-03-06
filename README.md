@@ -1,3 +1,6 @@
 # linuqsior
-TEST
- 
+
+Languages:
+
+* Javascript
+* Java
